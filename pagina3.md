@@ -1,3 +1,5 @@
-# Prueba de verificación de tarea
+# Datos de estudiante
 
-Está es una prueba para presentar la tarea del viernes
+Xavier Villarreal
+Estudiante de 6to semestre
+Desarrollo WEB
